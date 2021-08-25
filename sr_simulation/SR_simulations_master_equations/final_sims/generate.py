@@ -1,4 +1,4 @@
-from SR_simmulations.SR_system import *
+from SR_simulations_master_equations.SR_system import *
 
 N = 40
 
