@@ -33,6 +33,7 @@ The above file is an example of  how to use the different visualization fucntion
             """ plot m expectation value over time """
         plot_scatter_p_evolution():
             """ plot the system probability evolution over time, together with a line to indicate the expectation value over time """
+            # plot example below
         plot_Gamma():
             """ plot emission rate value over time """
         plot_Q():
