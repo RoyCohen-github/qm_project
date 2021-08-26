@@ -50,7 +50,7 @@ The above file is an example of  how to use the different visualization fucntion
             """ generate a .gif file  to animate the porbability evolution of the system at 'dest' location """
    
 scatter_p_plot_example:
-[generate_sims](./scatter_p_example.svg) file.
+<img src="./scatter_p_example.svg" alt="alt text" width="400" height="whatever">
 
 ## In addition, this file contains an objects that implemets the evolutoin for equivalent classical system.
 The usage is similar to the SR evolutoin, usage example can be found in [generate_sims](./final_sims/generate.py) file.
